@@ -1,4 +1,4 @@
-#Daniel Gekonde
+#Daniel M Gekonde
 
 import os
 import shutil
